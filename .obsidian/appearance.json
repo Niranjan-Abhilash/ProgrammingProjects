@@ -1,14 +1,4 @@
 {
-  "theme": "obsidian",
-  "accentColor": "#e69119",
-<<<<<<< HEAD
   "cssTheme": "Border",
-=======
-  "cssTheme": "Things",
->>>>>>> bf2db5b5de24dd930ace4cdf2f0e2951f27e6f83
-  "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "Inter",
-  "baseFontSize": 24,
-  "baseFontSizeAction": true,
-  "nativeMenus": false
+  "baseFontSize": 18
 }

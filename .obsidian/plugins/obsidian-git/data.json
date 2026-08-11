@@ -19,11 +19,7 @@
   "syncMethod": "merge",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
-<<<<<<< HEAD
   "autoBackupAfterFileChange": true,
-=======
-  "autoBackupAfterFileChange": false,
->>>>>>> bf2db5b5de24dd930ace4cdf2f0e2951f27e6f83
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
